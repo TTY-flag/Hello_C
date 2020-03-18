@@ -1,0 +1,90 @@
+    - babyre:
+      - score: 100
+      - flag:
+        - THis_1s_Y9urf1ag
+      - pushflag: NULL
+      - env: NULL
+      - attachment: 
+        - ./reverse/babyre/babyre.exe
+      - writeup-cn: NULL
+      - writeup-en: NULL
+      - description-cn: NULL
+      - description-en: NULL
+      - origin: YJZ
+      - tag: NULL
+      - hint: NULL
+    - babyre2:
+      - score: 100
+      - flag:
+        - JNCTF{yi_qi_happy}
+      - pushflag: NULL
+      - env: NULL
+      - attachment: 
+        - ./reverse/babyre2/Jnwa.java
+      - writeup-cn: NULL
+      - writeup-en: NULL
+      - description-cn: NULL
+      - description-en: NULL
+      - origin: ZQJ
+      - tag: NULL
+      - hint: NULL
+    - easy_re:
+      - score: 100
+      - flag:
+        - JNCTF{6x59f8JNHUBWa7ej1n}
+      - pushflag: NULL
+      - env: NULL
+      - attachment: 
+        - ./reverse/easy_re/easy_re
+      - writeup-cn: NULL
+      - writeup-en: NULL
+      - description-cn: NULL
+      - description-en: NULL
+      - origin: GGM
+      - tag: NULL
+      - hint: NULL
+    - easyre2:
+      - score: 100
+      - flag:
+        - jnctf{matrix}
+      - pushflag: NULL
+      - env: NULL
+      - attachment: 
+        - ./reverse/easyre2/easyre2.exe
+      - writeup-cn: NULL
+      - writeup-en: NULL
+      - description-cn: NULL
+      - description-en: NULL
+      - origin: LFD
+      - tag: NULL
+      - hint: NULLs
+    - LittleRe:
+      - score: 100
+      - flag:
+        - JNCTF{Iamalittlereverse}
+      - pushflag: NULL
+      - env: NULL
+      - attachment: 
+        - ./reverse/LittleRe/LittleRe.exe
+      - writeup-cn: NULL
+      - writeup-en: NULL
+      - description-cn: NULL
+      - description-en: NULL
+      - origin: TTY
+      - tag: NULL
+      - hint: NULLs
+    - 天皇的密码:
+      - score: 100
+      - flag:
+        - flag{1_am_7he_f1ag}
+      - pushflag: NULL
+      - env: NULL
+      - attachment: 
+        - ./reverse/天皇的密码/天皇的密码.exe
+      - writeup-cn: NULL
+      - writeup-en: NULL
+      - description-cn: NULL
+      - description-en: NULL
+      - origin: WJC
+      - tag: NULL
+      - hint: NULLs
